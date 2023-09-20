@@ -1,4 +1,10 @@
+### Bem vindos ao meu perfil!
 - 👋 Olá, eu sou a Lavinia Glufka
--  14/02/2008
 -  Sou estudante do Alura
+-  Estou me desenvolvendo na linguagem de JavaScripit
+-  Uso esta rede para a amostra de meus trabalhos
+-  Sou estudante do ensino medio
+-  Amo atividades físicas como ir à academia e jogar volêi
+-  Tenho um namorado 🫀
+
 
