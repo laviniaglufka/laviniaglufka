@@ -5,6 +5,7 @@
 -  Uso esta rede para a amostra de meus trabalhos
 -  Sou estudante do ensino medio
 -  Amo atividades físicas como ir à academia e jogar volêi
+-  Sou a aquariana mais sensível
 -  Tenho um namorado 🫀
 
 
